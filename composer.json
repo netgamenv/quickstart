@@ -1,0 +1,16 @@
+{
+    "name": "netgamenv/quickstart",
+    "description": "Integration demo",
+    "require": {
+        "php": ">=7.0",
+        "ext-json": "*",
+        "guzzlehttp/psr7": "1.4",
+        "guzzlehttp/guzzle": "6.2",
+        "vlucas/phpdotenv": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "common\\": "common"
+        }
+    }
+}
