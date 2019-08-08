@@ -41,9 +41,9 @@ In order to run demo site you need a proper casino credentials such as login, ur
 
 If you've done all previous step, then you should get ready to work demo website with games and users. Just open you frontend domain in web browser and press play or demo at games in list 
 
-# Step to integration
+# Integration
 
-There's two way to integrate this code into your website.
+There're two ways to integrate this code into your website.
 
 ## 1. Adapting
 
